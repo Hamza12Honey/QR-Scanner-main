@@ -1,0 +1,46 @@
+.qr-code {
+  width: 800;
+  margin: 2;
+}
+
+.qr-code-dark {
+  background-color: #335383FF;
+}
+
+.qr-code-light {
+  background-color: #EEEEEEFF;
+}
+
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input[type="text"] {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+  background-color: #335383FF;
+  color: #fff;
+  border: none;
+}
+
+button:hover {
+  background-color: #335383CC;
+}
+
+img {
+  margin-top: 20px;
+  max-width: 100%;
+}
+
+a {
+  display: block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #335383FF;
+}
