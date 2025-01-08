@@ -25,7 +25,7 @@ This is a simple QR Code Scanner and Generator application built using React and
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/cyberknight0021/QR-Scanner.git
+git clone https://github.com/Hamza12Honey/QR-Scanner.git
 ```
 2. Install dependencies:
 
